@@ -1,0 +1,11 @@
+C:\Users\David320\Documents\Kuliah\mata-kuliah\alprog2\pertemuan_6\Session6\obj\Debug\Session6.csproj.AssemblyReference.cache
+C:\Users\David320\Documents\Kuliah\mata-kuliah\alprog2\pertemuan_6\Session6\obj\Debug\Session6.frmWriteToFile.resources
+C:\Users\David320\Documents\Kuliah\mata-kuliah\alprog2\pertemuan_6\Session6\obj\Debug\Session6.Properties.Resources.resources
+C:\Users\David320\Documents\Kuliah\mata-kuliah\alprog2\pertemuan_6\Session6\obj\Debug\Session6.csproj.GenerateResource.cache
+C:\Users\David320\Documents\Kuliah\mata-kuliah\alprog2\pertemuan_6\Session6\obj\Debug\Session6.csproj.CoreCompileInputs.cache
+C:\Users\David320\Documents\Kuliah\mata-kuliah\alprog2\pertemuan_6\Session6\bin\Debug\Session6.exe.config
+C:\Users\David320\Documents\Kuliah\mata-kuliah\alprog2\pertemuan_6\Session6\bin\Debug\Session6.exe
+C:\Users\David320\Documents\Kuliah\mata-kuliah\alprog2\pertemuan_6\Session6\bin\Debug\Session6.pdb
+C:\Users\David320\Documents\Kuliah\mata-kuliah\alprog2\pertemuan_6\Session6\obj\Debug\Session6.exe
+C:\Users\David320\Documents\Kuliah\mata-kuliah\alprog2\pertemuan_6\Session6\obj\Debug\Session6.pdb
+C:\Users\David320\Documents\Kuliah\mata-kuliah\alprog2\pertemuan_6\Session6\obj\Debug\Session6.frmScore.resources
